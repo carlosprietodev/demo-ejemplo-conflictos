@@ -1,10 +1,10 @@
-hola mundo, como estan todos
+hola mundo, esto es otro ejemplo más
 adios mundo, saludos
 
 
 
-linea 1
-linea 2
+linea X
+linea Y
 
 
 linea 10
