@@ -1,5 +1,5 @@
-hola mundo, que tal
-adios mundo
+hola mundo, como estan todos
+adios mundo, saludos
 
 
 linea 1
