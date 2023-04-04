@@ -1,11 +1,10 @@
 hola mundo, espero que estén bien
-
 adios mundo, saludos
 
 
+linea X
+linea Y
 
-linea 5
-linea 6
 
 
 linea 10
